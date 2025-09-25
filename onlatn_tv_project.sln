@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onlatn_tv_project", "onlatn_tv_project.csproj", "{8FC27FE9-D8A1-4D67-B366-CFE9086C55DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC27FE9-D8A1-4D67-B366-CFE9086C55DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC27FE9-D8A1-4D67-B366-CFE9086C55DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC27FE9-D8A1-4D67-B366-CFE9086C55DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC27FE9-D8A1-4D67-B366-CFE9086C55DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D957B821-6A90-4041-AFBB-A3C435EF5E4C}
+	EndGlobalSection
+EndGlobal

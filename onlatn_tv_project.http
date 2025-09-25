@@ -1,0 +1,6 @@
+@onlatn_tv_project_HostAddress = http://localhost:5078
+
+GET {{onlatn_tv_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

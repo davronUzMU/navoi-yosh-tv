@@ -1,0 +1,28 @@
+﻿# Build output
+bin/
+obj/
+out/
+
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+
+# Environment secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS generated files
+[Dd]esktop.ini
+[Tt]humbs.db
+*.DS_Store
+
+
+
